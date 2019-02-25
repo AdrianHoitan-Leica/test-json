@@ -1,0 +1,34 @@
+{
+  "capabilities":{
+    "baselayers":[
+    {
+      "title":"Group 1",
+      "layers":[
+        {"id":"1", "title":"asdf", "isVisible":true},
+        {"id":"1", "title":"asdf", "isVisible":true}
+      ]
+    },
+    {
+      "title":"Group 2",
+      "layers":[
+        {"id":"1", "title":"asdf", "isVisible":true},
+        {"id":"1", "title":"asdf", "isVisible":true}
+      ]
+    }],
+    "datalayers":[
+    {
+      "title":"Group 1",
+      "layers":[
+        {"id":"1", "title":"asdf", "isVisible":true},
+        {"id":"1", "title":"asdf", "isVisible":true}
+      ]
+    },
+    {
+      "title":"Group 2",
+      "layers":[
+        {"id":"1", "title":"asdf", "isVisible":true},
+        {"id":"1", "title":"asdf", "isVisible":true}
+      ]
+    }]
+  }
+}
